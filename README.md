@@ -1,10 +1,34 @@
-- 👋 Hi, I’m @chistowhite
-- 👀 I’m interested in Cryptography 
-- 🌱 I’m currently learning - Rust 
-- 💞️ I’m looking to collaborate on - I don`t know
-- 📫 How to reach me - ?
+# AM-01 / Danil
+### Designer + Developer / Visual Systems Lab
 
-<!---
-chistowhite/chistowhite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I build websites, brand systems and digital tools
+for businesses that want to look professional
+and work efficiently.
+
+Design + Code + System.
+
+---
+
+**// WHAT I DO**
+
+- Web Design & Development — sites of any complexity
+- Functional Systems — booking, CRM, databases, payments
+- Branding — logo, identity, brand kit
+- Print & Digital — flyers, banners, UI/UX
+
+**// STACK**
+
+- Vibe-coding / AI-assisted development
+- HTML / CSS / JavaScript
+- Figma / Design Systems
+- Stripe / PayU / Google Calendar integrations
+
+**// CONTACT**
+
+- 🌐 am01.pl
+- 📷 @am01.studio
+- ✉️ hello@am01.studio
+
+---
+
+`INPUT → SYSTEM → OUTPUT`
