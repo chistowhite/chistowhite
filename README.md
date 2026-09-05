@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Danylo<br><br>Software Builder focused on reliable, maintainable and well-designed systems.<br><br>🔭 I build production-minded software with a strong focus on architecture, code quality, security and maintainability.<br><br>⚙️ I use AI-assisted development to move faster while keeping engineering decisions, verification and final quality under control.<br><br>🧭 Clean architecture, clear specifications, secure systems, reliable behavior and software that remains easy to understand and evolve.<br><br>🌱 I'm currently learning System Design, Software Architecture, Security and Agentic Software Development.<br><br>💬 Ask me about Software architecture, AI-assisted development, product engineering and building reliable systems.<br><br>⚡ Build fast. Design carefully. Verify everything.<br><br>📫 hello@am01.studio · 🌐 https://am01.studio
+Hi, I'm Danylo<br><br>Software Builder focused on reliable, maintainable and well-designed systems.<br><br>🔭 I build production-minded software with a strong focus on architecture, code quality, security and maintainability.<br><br>⚙️ I use AI-assisted development to move faster while keeping engineering decisions, verification and final quality under control.<br><br>🧭 Clean architecture, clear specifications, secure systems, reliable behavior and software that remains easy to understand and evolve.<br><br>🌱 I'm currently learning System Design, Software Architecture, Security and Agentic Software Development.<br><br>💬 Ask me about Software architecture, AI-assisted development, product engineering and building reliable systems.<br><br>⚡ Build fast. Design carefully. Verify everything.<br><br>📫 hello@am01.pl · 🌐 https://am01.pl
 
 
 ## 🌐 Socials:
@@ -14,8 +14,3 @@ Hi, I'm Danylo<br><br>Software Builder focused on reliable, maintainable and wel
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=chistowhite&limit=5&theme=monokai&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
