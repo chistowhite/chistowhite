@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 430" role="img" aria-labelledby="title desc">
+  <title id="title">Build systems. Ship products.</title>
+  <desc id="desc">A soft blue abstract banner for the chistowhite GitHub profile.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f4fbff"/><stop offset="0.45" stop-color="#b8dcff"/><stop offset="1" stop-color="#edf7ff"/></linearGradient>
+    <linearGradient id="cloud" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff" stop-opacity="0.88"/><stop offset="1" stop-color="#d9efff" stop-opacity="0.18"/></linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="0.9" y2="1"><stop offset="0" stop-color="#ffffff" stop-opacity="0.78"/><stop offset="0.55" stop-color="#a7d7ff" stop-opacity="0.3"/><stop offset="1" stop-color="#ffffff" stop-opacity="0.14"/></linearGradient>
+    <filter id="blur" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="26"/></filter>
+  </defs>
+  <rect width="1280" height="430" rx="18" fill="url(#bg)"/>
+  <ellipse cx="935" cy="110" rx="300" ry="110" fill="#ffffff" opacity="0.3" filter="url(#blur)"/>
+  <ellipse cx="1130" cy="355" rx="280" ry="100" fill="#ffffff" opacity="0.4" filter="url(#blur)"/>
+  <g fill="url(#cloud)" opacity="0.9"><path d="M740 100c30-47 105-45 128 7 32-29 95-7 95 43 0 25-20 45-45 45H711c-32 0-51-35-34-62 11-18 37-27 63-16z"/><path d="M1010 270c24-38 84-36 103 6 26-23 76-6 76 35 0 20-16 36-36 36H987c-26 0-42-28-28-51 9-15 30-22 51-13z"/></g>
+  <g fill="none" stroke="#ffffff" stroke-width="2" opacity="0.62"><path d="M770 165c85-105 172-104 272 10 75 85 133 88 228 11"/><path d="M805 200c86-89 164-83 246 18 70 86 127 88 218 24" opacity="0.7"/><path d="M712 280c118-45 185-39 267 27 74 60 135 65 243 17" opacity="0.48"/></g>
+  <g fill="url(#glass)" stroke="#ffffff" stroke-opacity="0.72" stroke-width="2"><circle cx="1090" cy="112" r="104"/><circle cx="1190" cy="305" r="76" opacity="0.7"/><path d="M868 330c-51-62-43-129 17-180 45-39 115-30 145 16 41 62-3 135-48 171-34 27-87 26-114-7z" opacity="0.65"/></g>
+  <g fill="#11305e" font-family="Arial, Helvetica, sans-serif">
+    <text x="58" y="58" font-size="16" font-weight="700" letter-spacing="3">CHISTOWHITE</text><text x="950" y="58" font-size="13" letter-spacing="2" fill="#3b82d0">SOFTWARE FOR A BRIGHTER TOMORROW</text>
+    <text x="58" y="165" font-size="64" font-weight="700" letter-spacing="-2">Build systems.</text><text x="58" y="235" font-size="64" font-weight="700" letter-spacing="-2" fill="#1d78e5">Ship products.</text>
+    <text x="60" y="288" font-size="22" font-weight="600">Software Builder / Product Engineering</text><text x="60" y="348" font-size="17" letter-spacing="3" fill="#17427c">IDEA  →  SPEC  →  SYSTEM  →  PRODUCT</text><text x="60" y="390" font-size="13" letter-spacing="2" fill="#3b82d0">WROCŁAW, POLAND</text>
+    <text x="1080" y="178" font-size="13" letter-spacing="2" fill="#1670de">IDEAS</text><text x="1080" y="199" font-size="13" letter-spacing="2" fill="#1670de">SYSTEMS</text><text x="1080" y="220" font-size="13" letter-spacing="2" fill="#1670de">PEOPLE</text><text x="1080" y="241" font-size="13" letter-spacing="2" fill="#1670de">REAL IMPACT</text><text x="1130" y="390" font-size="14" font-weight="700">am01.pl  →</text>
+  </g>
+  <path d="M1055 168v89" stroke="#1670de" stroke-width="2" opacity="0.65"/>
+</svg>
