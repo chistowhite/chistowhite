@@ -1,34 +1,42 @@
-# AM-01 / Danil
-### Designer + Developer / Visual Systems Lab
+## // ABOUT
 
-I build websites, brand systems and digital tools
-for businesses that want to look professional
-and work efficiently.
+I build software with AI-first workflows.
 
-Design + Code + System.
+My focus is not on one language or framework.
+I’m learning how software systems work so I can design, build and ship different products with AI.
 
----
+## // WHAT I BUILD
 
-**// WHAT I DO**
+- Web applications
+- CRM systems
+- Admin panels
+- Internal tools
+- Dashboards
+- Business systems
+- API integrations
 
-- Web Design & Development — sites of any complexity
-- Functional Systems — booking, CRM, databases, payments
-- Branding — logo, identity, brand kit
-- Print & Digital — flyers, banners, UI/UX
+## // FOCUS
 
-**// STACK**
+- Software architecture
+- APIs and databases
+- System design
+- Security
+- Specifications
+- Verification
+- Agentic development
 
-- Vibe-coding / AI-assisted development
-- HTML / CSS / JavaScript
-- Figma / Design Systems
-- Stripe / PayU / Google Calendar integrations
+## // WORKFLOW
 
-**// CONTACT**
+Problem → Spec → Architecture → AI Agents → Verification → Production
 
-- 🌐 am01.pl
-- 📷 @am01.studio
-- ✉️ hello@am01.studio
+## // TOOLS
 
----
+- Codex
+- GitHub
+- AI coding agents
 
-`INPUT → SYSTEM → OUTPUT`
+## // CURRENT DIRECTION
+
+AI-native product engineering.
+
+Building the foundation to work across different stacks, systems and products without being tied to one language.
