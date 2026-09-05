@@ -1,19 +1,19 @@
 <h1 align="center">Hi, I'm Danylo</h1>
 <h3 align="center">Software Builder focused on reliable, maintainable and well-designed systems</h3>
 
-- 🔭 [I build production-minded software with a strong focus on architecture, code quality, security and maintainability.](https://am01.studio)
+- 🔭 [I build production-minded software with a strong focus on architecture, code quality, security and maintainability.](https://www.am01.pl/)
 
 - 🌱 I’m currently learning **System Design, Software Architecture, Security and Agentic Software Development**
 
-- ⚙️ [I use AI-assisted development to move faster while keeping engineering decisions, verification and final quality under control.](https://am01.studio)
+- ⚙️ [I use AI-assisted development to move faster while keeping engineering decisions, verification and final quality under control.](https://www.am01.pl/)
 
-- 🧭 [Clean architecture, clear specifications, secure systems, reliable behavior and software that remains easy to understand and evolve.](https://am01.studio)
+- 🧭 [Clean architecture, clear specifications, secure systems, reliable behavior and software that remains easy to understand and evolve.](https://www.am01.pl/)
 
-- 👨‍💻 All of my projects are available at [https://am01.studio](https://am01.studio)
+- 👨‍💻 All of my projects are available at [https://am01.studio](https://www.am01.pl/)
 
 - 💬 Ask me about **Software architecture, AI-assisted development, product engineering and building reliable systems**
 
-- 📫 How to reach me **hello@am01.studio**
+- 📫 How to reach me **hello@am01.pl**
 
 - ⚡ Fun fact **Build fast. Design carefully. Verify everything.**
 
