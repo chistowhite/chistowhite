@@ -1,28 +1,15 @@
-<h1 align="center">Hi, I'm Danylo</h1>
-<h3 align="center">Software Builder focused on reliable, maintainable and well-designed systems</h3>
+# 💫 About Me:
+Hi, I'm Danylo<br><br>Software Builder focused on reliable, maintainable and well-designed systems.<br><br>🔭 I build production-minded software with a strong focus on architecture, code quality, security and maintainability.<br><br>⚙️ I use AI-assisted development to move faster while keeping engineering decisions, verification and final quality under control.<br><br>🧭 Clean architecture, clear specifications, secure systems, reliable behavior and software that remains easy to understand and evolve.<br><br>🌱 I'm currently learning System Design, Software Architecture, Security and Agentic Software Development.<br><br>💬 Ask me about Software architecture, AI-assisted development, product engineering and building reliable systems.<br><br>⚡ Build fast. Design carefully. Verify everything.<br><br>📫 hello@am01.studio · 🌐 https://am01.studio
 
-- 🔭 [I build production-minded software with a strong focus on architecture, code quality, security and maintainability.](https://www.am01.pl/)
 
-- 🌱 I’m currently learning **System Design, Software Architecture, Security and Agentic Software Development**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danil-drobnyi-58ab1a2ab) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hello@am01.studio) 
 
-- ⚙️ [I use AI-assisted development to move faster while keeping engineering decisions, verification and final quality under control.](https://www.am01.pl/)
+# 💻 Tech Stack:
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=flat&logo=sentry&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=flat&logo=playwright&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=chistowhite&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=chistowhite&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=chistowhite&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 🧭 [Clean architecture, clear specifications, secure systems, reliable behavior and software that remains easy to understand and evolve.](https://www.am01.pl/)
-
-- 👨‍💻 All of my projects are available at [https://am01.studio](https://www.am01.pl/)
-
-- 💬 Ask me about **Software architecture, AI-assisted development, product engineering and building reliable systems**
-
-- 📫 How to reach me **hello@am01.pl**
-
-- ⚡ Fun fact **Build fast. Design carefully. Verify everything.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/danil-drobnyi-58ab1a2ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danil-drobnyi-58ab1a2ab" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chistowhite&show_icons=true&locale=en" alt="chistowhite" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
