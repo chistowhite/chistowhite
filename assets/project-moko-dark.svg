@@ -1,32 +1,263 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="652" height="340" viewBox="0 0 652 340" role="img" aria-labelledby="title desc">
-  <title id="title">MOKO — 02 · BOOKING + CRM BOT</title>
-  <desc id="desc">MOKO: Mobile upholstery cleaning in Wrocław. Online booking, price offers by email, client accounts and a Telegram admin bot. Stack: React, Supabase, Tailwind, Telegram Bot.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="652" height="424" viewBox="0 0 652 424" role="img" aria-labelledby="title desc" xml:space="preserve">
+  <title id="title">MOKO — mobile upholstery cleaning, wrocław.</title>
+  <desc id="desc">MOKO: mobile upholstery cleaning, wrocław. Built with react, supabase, telegram bot. Live at mokowash.pl.</desc>
   <style>
-    .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif; }
-    .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
-    .ink { fill: #f0f6fc; }
-    .muted { fill: #9198a1; }
-    .accent { fill: #4493f8; }
+  text { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; white-space: pre; }
+  .i { fill: #e6edf3; } .m { fill: #8d96a0; } .f { fill: #454c56; } .a { fill: #ff5a1f; }
+  .I { fill: #e6edf3; font-weight: 700; } .A { fill: #ff5a1f; font-weight: 700; }
+  .fr { opacity: 0; } .po { opacity: 1; }
+  .caret { animation: caret 1.1s steps(1,end) infinite; }
+  @keyframes caret { 0% { fill-opacity: 1; } 50% { fill-opacity: 0; } }
+  @media (prefers-reduced-motion: reduce) { .fr, .caret { animation: none !important; } }
+  @keyframes w0{0%{opacity:1}8.333%{opacity:0}53.611%{opacity:1}100%{opacity:1}}
+  @keyframes w1{0%{opacity:0}8.333%{opacity:1}10%{opacity:0}100%{opacity:0}}
+  @keyframes w2{0%{opacity:0}10%{opacity:1}11.667%{opacity:0}100%{opacity:0}}
+  @keyframes w3{0%{opacity:0}11.667%{opacity:1}13.333%{opacity:0}100%{opacity:0}}
+  @keyframes w4{0%{opacity:0}13.333%{opacity:1}15%{opacity:0}100%{opacity:0}}
+  @keyframes w5{0%{opacity:0}15%{opacity:1}16.667%{opacity:0}100%{opacity:0}}
+  @keyframes w6{0%{opacity:0}16.667%{opacity:1}18.333%{opacity:0}100%{opacity:0}}
+  @keyframes w7{0%{opacity:0}18.333%{opacity:1}41.667%{opacity:0}100%{opacity:0}}
+  @keyframes w8{0%{opacity:0}41.667%{opacity:1}46.667%{opacity:0}100%{opacity:0}}
+  @keyframes w9{0%{opacity:0}46.667%{opacity:1}48.056%{opacity:0}100%{opacity:0}}
+  @keyframes w10{0%{opacity:0}48.056%{opacity:1}49.444%{opacity:0}100%{opacity:0}}
+  @keyframes w11{0%{opacity:0}49.444%{opacity:1}50.833%{opacity:0}100%{opacity:0}}
+  @keyframes w12{0%{opacity:0}50.833%{opacity:1}52.222%{opacity:0}100%{opacity:0}}
+  @keyframes w13{0%{opacity:0}52.222%{opacity:1}53.611%{opacity:0}100%{opacity:0}}
   </style>
   <g transform="translate(0 0)">
-  <rect x="0.75" y="0.75" width="638.5" height="338.5" rx="19.5" fill="#151b23" stroke="#3d444d" stroke-width="1.5"/>
-  <circle cx="49" cy="50" r="5" fill="#39c5cf"/>
-  <text x="62" y="55" class="mono" fill="#39c5cf" font-size="14" letter-spacing="2">02 · BOOKING + CRM BOT</text>
-  <text x="596" y="56" text-anchor="end" class="sans accent" font-size="17" font-weight="600">mokowash.pl ↗</text>
-  <text x="44" y="130" class="sans ink" font-size="44" font-weight="700" letter-spacing="-1.2">MOKO</text>
-  <text x="44" y="178" class="sans muted" font-size="21">Mobile upholstery cleaning in Wrocław.</text>
-  <text x="44" y="208" class="sans muted" font-size="21">Online booking, price offers by email,</text>
-  <text x="44" y="238" class="sans muted" font-size="21">client accounts and a Telegram admin bot.</text>
-  <g>
-    <rect x="44" y="266" width="74" height="30" rx="15" fill="#0d1117" stroke="#3d444d"/>
-    <text x="81" y="286.25" text-anchor="middle" class="mono muted" font-size="15">React</text>
-    <rect x="128" y="266" width="101" height="30" rx="15" fill="#0d1117" stroke="#3d444d"/>
-    <text x="178.5" y="286.25" text-anchor="middle" class="mono muted" font-size="15">Supabase</text>
-    <rect x="239" y="266" width="101" height="30" rx="15" fill="#0d1117" stroke="#3d444d"/>
-    <text x="289.5" y="286.25" text-anchor="middle" class="mono muted" font-size="15">Tailwind</text>
-    <rect x="350" y="266" width="139" height="30" rx="15" fill="#0d1117" stroke="#3d444d"/>
-    <text x="419.5" y="286.25" text-anchor="middle" class="mono muted" font-size="15">Telegram Bot</text>
+  <text class="I" x="0" y="34" font-size="32">MOKO</text>
+  <text class="a" x="640" y="34" font-size="16" text-anchor="end">mokowash.pl -&gt;</text>
+  <text class="m" x="0" y="66" font-size="16">mobile upholstery cleaning, wrocław.</text>
+  <text class="m" x="0" y="92" font-size="14">react · supabase · telegram bot</text>
+  <g font-size="17">
+    <text class="f" x="0" y="129" textLength="639.84">+--                     -------------------------------------+</text>
+    <text class="m" x="41.28" y="129" textLength="196.08">telegram · moko bot</text>
+    <text class="f" x="0" y="153" textLength="639.84">|                                                            |</text>
+    <text class="f" x="0" y="177" textLength="639.84">|                                                            |</text>
+    <text class="f" x="0" y="201" textLength="639.84">|                                                            |</text>
+    <text class="f" x="0" y="225" textLength="639.84">|                                                            |</text>
+    <text class="f" x="0" y="249" textLength="639.84">|                                                            |</text>
+    <text class="f" x="0" y="273" textLength="639.84">|                                                            |</text>
+    <text class="f" x="0" y="297" textLength="639.84">|                                                            |</text>
+    <text class="f" x="0" y="321" textLength="639.84">|                                                            |</text>
+    <text class="f" x="0" y="345" textLength="639.84">|                                                            |</text>
+    <text class="f" x="0" y="369" textLength="639.84">|------------------------------------------------------------|</text>
+    <text class="f" x="0" y="393" textLength="639.84">|  message                                                   |</text>
+    <text class="f" x="0" y="417" textLength="639.84">+------------------------------------------------------------+</text>
+  <g class="fr po" style="animation:w0 6s steps(1,end) infinite">
+    <text class="f" x="30.96" y="153" textLength="454.08">'------------------------------------------'</text>
+    <text class="A" x="51.6" y="177" textLength="92.88">confirmed</text>
+    <text class="m" x="154.8" y="177" textLength="258">· offer emailed to client</text>
+    <text class="f" x="30.96" y="225" textLength="454.08">.------------------------------------------.</text>
+    <text class="f" x="30.96" y="249" textLength="454.08">|                                          |</text>
+    <text class="I" x="51.6" y="249" textLength="92.88">new order</text>
+    <text class="f" x="30.96" y="273" textLength="454.08">|                                          |</text>
+    <text class="i" x="51.6" y="273" textLength="258">sofa, 3-seat · upholstery</text>
+    <text class="f" x="30.96" y="297" textLength="454.08">|                                          |</text>
+    <text class="m" x="51.6" y="297" textLength="196.08">thu 10:00 · wrocław</text>
+    <text class="f" x="30.96" y="321" textLength="454.08">'------------------------------------------'</text>
+    <text class="A" x="51.6" y="345" textLength="92.88">confirmed</text>
+    <text class="m" x="154.8" y="345" textLength="258">· offer emailed to client</text>
+  </g>
+  <g class="fr" style="animation:w1 6s steps(1,end) infinite">
+    <text class="A" x="51.6" y="153" textLength="92.88">confirmed</text>
+    <text class="m" x="154.8" y="153" textLength="258">· offer emailed to client</text>
+    <text class="f" x="30.96" y="201" textLength="454.08">.------------------------------------------.</text>
+    <text class="f" x="30.96" y="225" textLength="454.08">|                                          |</text>
+    <text class="I" x="51.6" y="225" textLength="92.88">new order</text>
+    <text class="f" x="30.96" y="249" textLength="454.08">|                                          |</text>
+    <text class="i" x="51.6" y="249" textLength="258">sofa, 3-seat · upholstery</text>
+    <text class="f" x="30.96" y="273" textLength="454.08">|                                          |</text>
+    <text class="m" x="51.6" y="273" textLength="196.08">thu 10:00 · wrocław</text>
+    <text class="f" x="30.96" y="297" textLength="454.08">'------------------------------------------'</text>
+    <text class="A" x="51.6" y="321" textLength="92.88">confirmed</text>
+    <text class="m" x="154.8" y="321" textLength="258">· offer emailed to client</text>
+  </g>
+  <g class="fr" style="animation:w2 6s steps(1,end) infinite">
+    <text class="f" x="30.96" y="177" textLength="454.08">.------------------------------------------.</text>
+    <text class="f" x="30.96" y="201" textLength="454.08">|                                          |</text>
+    <text class="I" x="51.6" y="201" textLength="92.88">new order</text>
+    <text class="f" x="30.96" y="225" textLength="454.08">|                                          |</text>
+    <text class="i" x="51.6" y="225" textLength="258">sofa, 3-seat · upholstery</text>
+    <text class="f" x="30.96" y="249" textLength="454.08">|                                          |</text>
+    <text class="m" x="51.6" y="249" textLength="196.08">thu 10:00 · wrocław</text>
+    <text class="f" x="30.96" y="273" textLength="454.08">'------------------------------------------'</text>
+    <text class="A" x="51.6" y="297" textLength="92.88">confirmed</text>
+    <text class="m" x="154.8" y="297" textLength="258">· offer emailed to client</text>
+    <text class="f" x="30.96" y="345" textLength="454.08">.------------------------------------------.</text>
+  </g>
+  <g class="fr" style="animation:w3 6s steps(1,end) infinite">
+    <text class="f" x="30.96" y="153" textLength="454.08">.------------------------------------------.</text>
+    <text class="f" x="30.96" y="177" textLength="454.08">|                                          |</text>
+    <text class="I" x="51.6" y="177" textLength="92.88">new order</text>
+    <text class="f" x="30.96" y="201" textLength="454.08">|                                          |</text>
+    <text class="i" x="51.6" y="201" textLength="258">sofa, 3-seat · upholstery</text>
+    <text class="f" x="30.96" y="225" textLength="454.08">|                                          |</text>
+    <text class="m" x="51.6" y="225" textLength="196.08">thu 10:00 · wrocław</text>
+    <text class="f" x="30.96" y="249" textLength="454.08">'------------------------------------------'</text>
+    <text class="A" x="51.6" y="273" textLength="92.88">confirmed</text>
+    <text class="m" x="154.8" y="273" textLength="258">· offer emailed to client</text>
+    <text class="f" x="30.96" y="321" textLength="454.08">.------------------------------------------.</text>
+    <text class="f" x="30.96" y="345" textLength="454.08">|                                          |</text>
+    <text class="I" x="51.6" y="345" textLength="92.88">new order</text>
+  </g>
+  <g class="fr" style="animation:w4 6s steps(1,end) infinite">
+    <text class="f" x="30.96" y="153" textLength="454.08">|                                          |</text>
+    <text class="I" x="51.6" y="153" textLength="92.88">new order</text>
+    <text class="f" x="30.96" y="177" textLength="454.08">|                                          |</text>
+    <text class="i" x="51.6" y="177" textLength="258">sofa, 3-seat · upholstery</text>
+    <text class="f" x="30.96" y="201" textLength="454.08">|                                          |</text>
+    <text class="m" x="51.6" y="201" textLength="196.08">thu 10:00 · wrocław</text>
+    <text class="f" x="30.96" y="225" textLength="454.08">'------------------------------------------'</text>
+    <text class="A" x="51.6" y="249" textLength="92.88">confirmed</text>
+    <text class="m" x="154.8" y="249" textLength="258">· offer emailed to client</text>
+    <text class="f" x="30.96" y="297" textLength="454.08">.------------------------------------------.</text>
+    <text class="f" x="30.96" y="321" textLength="454.08">|                                          |</text>
+    <text class="I" x="51.6" y="321" textLength="92.88">new order</text>
+    <text class="f" x="30.96" y="345" textLength="454.08">|                                          |</text>
+    <text class="i" x="51.6" y="345" textLength="258">sofa, 3-seat · upholstery</text>
+  </g>
+  <g class="fr" style="animation:w5 6s steps(1,end) infinite">
+    <text class="f" x="30.96" y="153" textLength="454.08">|                                          |</text>
+    <text class="i" x="51.6" y="153" textLength="258">sofa, 3-seat · upholstery</text>
+    <text class="f" x="30.96" y="177" textLength="454.08">|                                          |</text>
+    <text class="m" x="51.6" y="177" textLength="196.08">thu 10:00 · wrocław</text>
+    <text class="f" x="30.96" y="201" textLength="454.08">'------------------------------------------'</text>
+    <text class="A" x="51.6" y="225" textLength="92.88">confirmed</text>
+    <text class="m" x="154.8" y="225" textLength="258">· offer emailed to client</text>
+    <text class="f" x="30.96" y="273" textLength="454.08">.------------------------------------------.</text>
+    <text class="f" x="30.96" y="297" textLength="454.08">|                                          |</text>
+    <text class="I" x="51.6" y="297" textLength="92.88">new order</text>
+    <text class="f" x="30.96" y="321" textLength="454.08">|                                          |</text>
+    <text class="i" x="51.6" y="321" textLength="258">sofa, 3-seat · upholstery</text>
+    <text class="f" x="30.96" y="345" textLength="454.08">|                                          |</text>
+    <text class="m" x="51.6" y="345" textLength="196.08">thu 10:00 · wrocław</text>
+  </g>
+  <g class="fr" style="animation:w6 6s steps(1,end) infinite">
+    <text class="f" x="30.96" y="153" textLength="454.08">|                                          |</text>
+    <text class="m" x="51.6" y="153" textLength="196.08">thu 10:00 · wrocław</text>
+    <text class="f" x="30.96" y="177" textLength="454.08">'------------------------------------------'</text>
+    <text class="A" x="51.6" y="201" textLength="92.88">confirmed</text>
+    <text class="m" x="154.8" y="201" textLength="258">· offer emailed to client</text>
+    <text class="f" x="30.96" y="249" textLength="454.08">.------------------------------------------.</text>
+    <text class="f" x="30.96" y="273" textLength="454.08">|                                          |</text>
+    <text class="I" x="51.6" y="273" textLength="92.88">new order</text>
+    <text class="f" x="30.96" y="297" textLength="454.08">|                                          |</text>
+    <text class="i" x="51.6" y="297" textLength="258">sofa, 3-seat · upholstery</text>
+    <text class="f" x="30.96" y="321" textLength="454.08">|                                          |</text>
+    <text class="m" x="51.6" y="321" textLength="196.08">thu 10:00 · wrocław</text>
+    <text class="f" x="30.96" y="345" textLength="454.08">'------------------------------------------'</text>
+  </g>
+  <g class="fr" style="animation:w7 6s steps(1,end) infinite">
+    <text class="f" x="30.96" y="153" textLength="454.08">'------------------------------------------'</text>
+    <text class="A" x="51.6" y="177" textLength="92.88">confirmed</text>
+    <text class="m" x="154.8" y="177" textLength="258">· offer emailed to client</text>
+    <text class="f" x="30.96" y="225" textLength="454.08">.------------------------------------------.</text>
+    <text class="f" x="30.96" y="249" textLength="454.08">|                                          |</text>
+    <text class="I" x="51.6" y="249" textLength="92.88">new order</text>
+    <text class="f" x="30.96" y="273" textLength="454.08">|                                          |</text>
+    <text class="i" x="51.6" y="273" textLength="258">sofa, 3-seat · upholstery</text>
+    <text class="f" x="30.96" y="297" textLength="454.08">|                                          |</text>
+    <text class="m" x="51.6" y="297" textLength="196.08">thu 10:00 · wrocław</text>
+    <text class="f" x="30.96" y="321" textLength="454.08">'------------------------------------------'</text>
+    <text class="i" x="30.96" y="345" textLength="454.08">[      confirm      ]  [       call        ]</text>
+  </g>
+  <g class="fr" style="animation:w8 6s steps(1,end) infinite">
+    <text class="f" x="30.96" y="153" textLength="454.08">'------------------------------------------'</text>
+    <text class="A" x="51.6" y="177" textLength="92.88">confirmed</text>
+    <text class="m" x="154.8" y="177" textLength="258">· offer emailed to client</text>
+    <text class="f" x="30.96" y="225" textLength="454.08">.------------------------------------------.</text>
+    <text class="f" x="30.96" y="249" textLength="454.08">|                                          |</text>
+    <text class="I" x="51.6" y="249" textLength="92.88">new order</text>
+    <text class="f" x="30.96" y="273" textLength="454.08">|                                          |</text>
+    <text class="i" x="51.6" y="273" textLength="258">sofa, 3-seat · upholstery</text>
+    <text class="f" x="30.96" y="297" textLength="454.08">|                                          |</text>
+    <text class="m" x="51.6" y="297" textLength="196.08">thu 10:00 · wrocław</text>
+    <text class="f" x="30.96" y="321" textLength="454.08">'------------------------------------------'</text>
+    <text class="A" x="30.96" y="345" textLength="216.72">[      confirm      ]</text>
+    <text class="i" x="268.32" y="345" textLength="216.72">[       call        ]</text>
+  </g>
+  <g class="fr" style="animation:w9 6s steps(1,end) infinite">
+    <text class="f" x="30.96" y="153" textLength="454.08">'------------------------------------------'</text>
+    <text class="A" x="51.6" y="177" textLength="92.88">confirmed</text>
+    <text class="m" x="154.8" y="177" textLength="258">· offer emailed to client</text>
+    <text class="f" x="30.96" y="225" textLength="454.08">.------------------------------------------.</text>
+    <text class="f" x="30.96" y="249" textLength="454.08">|                                          |</text>
+    <text class="I" x="51.6" y="249" textLength="92.88">new order</text>
+    <text class="f" x="30.96" y="273" textLength="454.08">|                                          |</text>
+    <text class="i" x="51.6" y="273" textLength="258">sofa, 3-seat · upholstery</text>
+    <text class="f" x="30.96" y="297" textLength="454.08">|                                          |</text>
+    <text class="m" x="51.6" y="297" textLength="196.08">thu 10:00 · wrocław</text>
+    <text class="f" x="30.96" y="321" textLength="454.08">'------------------------------------------'</text>
+    <text class="A" x="30.96" y="345" textLength="134.16">[       o fir</text>
+    <text class="a" x="103.2" y="345" textLength="227.04">_ \   * |    +       \</text>
+    <text class="i" x="268.32" y="345" textLength="216.72">[       call        ]</text>
+  </g>
+  <g class="fr" style="animation:w10 6s steps(1,end) infinite">
+    <text class="f" x="30.96" y="153" textLength="454.08">'------------------------------------------'</text>
+    <text class="A" x="51.6" y="177" textLength="92.88">confirmed</text>
+    <text class="m" x="154.8" y="177" textLength="258">· offer emailed to client</text>
+    <text class="f" x="30.96" y="225" textLength="454.08">.------------------------------------------.</text>
+    <text class="f" x="30.96" y="249" textLength="454.08">|                                          |</text>
+    <text class="I" x="51.6" y="249" textLength="92.88">new order</text>
+    <text class="f" x="30.96" y="273" textLength="454.08">|                                          |</text>
+    <text class="i" x="51.6" y="273" textLength="258">sofa, 3-seat · upholstery</text>
+    <text class="f" x="30.96" y="297" textLength="454.08">|                                          |</text>
+    <text class="m" x="51.6" y="297" textLength="196.08">thu 10:00 · wrocław</text>
+    <text class="f" x="30.96" y="321" textLength="454.08">'------------------------------------------'</text>
+    <text class="a" x="30.96" y="345" textLength="454.08">|  / _&lt;&lt;*/   # = *  *  /=   #   _          /</text>
+    <text class="A" x="134.16" y="345" textLength="30.96">fir</text>
+    <text class="i" x="350.88" y="345" textLength="41.28">c ll</text>
+  </g>
+  <g class="fr" style="animation:w11 6s steps(1,end) infinite">
+    <text class="f" x="30.96" y="153" textLength="454.08">'------------------------------------------'</text>
+    <text class="A" x="51.6" y="177" textLength="92.88">confirmed</text>
+    <text class="m" x="154.8" y="177" textLength="258">· offer emailed to client</text>
+    <text class="f" x="30.96" y="225" textLength="454.08">.------------------------------------------.</text>
+    <text class="f" x="30.96" y="249" textLength="454.08">|                                          |</text>
+    <text class="I" x="51.6" y="249" textLength="92.88">new order</text>
+    <text class="f" x="30.96" y="273" textLength="454.08">|                                          |</text>
+    <text class="i" x="51.6" y="273" textLength="258">sofa, 3-seat · upholstery</text>
+    <text class="f" x="30.96" y="297" textLength="454.08">|                                          |</text>
+    <text class="m" x="51.6" y="297" textLength="196.08">thu 10:00 · wrocław</text>
+    <text class="f" x="30.96" y="321" textLength="454.08">'------------------------------------------'</text>
+    <text class="a" x="30.96" y="345" textLength="454.08"># #&gt; &lt;/ =&lt; \| ==/+|  &lt; +=+=  /  &lt;== &gt;      &lt;</text>
+    <text class="A" x="103.2" y="345" textLength="41.28">r  f</text>
+    <text class="m" x="237.36" y="345" textLength="123.84">e       t  c</text>
+  </g>
+  <g class="fr" style="animation:w12 6s steps(1,end) infinite">
+    <text class="f" x="30.96" y="153" textLength="454.08">'------------------------------------------'</text>
+    <text class="A" x="51.6" y="177" textLength="92.88">confirmed</text>
+    <text class="m" x="154.8" y="177" textLength="258">· offer emailed to client</text>
+    <text class="f" x="30.96" y="225" textLength="454.08">.------------------------------------------.</text>
+    <text class="f" x="30.96" y="249" textLength="454.08">|                                          |</text>
+    <text class="I" x="51.6" y="249" textLength="92.88">new order</text>
+    <text class="f" x="30.96" y="273" textLength="454.08">|                                          |</text>
+    <text class="i" x="51.6" y="273" textLength="258">sofa, 3-seat · upholstery</text>
+    <text class="f" x="30.96" y="297" textLength="454.08">|                                          |</text>
+    <text class="m" x="51.6" y="297" textLength="196.08">thu 10:00 · wrocław</text>
+    <text class="f" x="30.96" y="321" textLength="454.08">'------------------------------------------'</text>
+    <text class="a" x="30.96" y="345" textLength="454.08">&gt; #+\=  _ +== = / &gt;  #=_ #&lt;  &lt;   +**\      /</text>
+    <text class="A" x="92.88" y="345" textLength="41.28">ir e</text>
+    <text class="m" x="185.76" y="345" textLength="185.76">f e  e   l   t  cl</text>
+  </g>
+  <g class="fr" style="animation:w13 6s steps(1,end) infinite">
+    <text class="f" x="30.96" y="153" textLength="454.08">'------------------------------------------'</text>
+    <text class="A" x="51.6" y="177" textLength="92.88">confirmed</text>
+    <text class="m" x="154.8" y="177" textLength="258">· offer emailed to client</text>
+    <text class="f" x="30.96" y="225" textLength="454.08">.------------------------------------------.</text>
+    <text class="f" x="30.96" y="249" textLength="454.08">|                                          |</text>
+    <text class="I" x="51.6" y="249" textLength="92.88">new order</text>
+    <text class="f" x="30.96" y="273" textLength="454.08">|                                          |</text>
+    <text class="i" x="51.6" y="273" textLength="258">sofa, 3-seat · upholstery</text>
+    <text class="f" x="30.96" y="297" textLength="454.08">|                                          |</text>
+    <text class="m" x="51.6" y="297" textLength="196.08">thu 10:00 · wrocław</text>
+    <text class="f" x="30.96" y="321" textLength="454.08">'------------------------------------------'</text>
+    <text class="A" x="51.6" y="345" textLength="82.56">co firme</text>
+    <text class="a" x="72.24" y="345" textLength="340.56">|     &lt; /         \      _   _ &lt;&gt;</text>
+    <text class="m" x="175.44" y="345" textLength="216.72">offer em iled t  cl e</text>
+  </g>
   </g>
   </g>
 </svg>

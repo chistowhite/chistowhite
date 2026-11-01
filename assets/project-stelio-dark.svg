@@ -1,32 +1,295 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="652" height="340" viewBox="0 0 652 340" role="img" aria-labelledby="title desc">
-  <title id="title">Stelio — 03 · AI KIOSK</title>
-  <desc id="desc">Stelio: Tablet assistant for cosmetics stores. Three questions → three picks from the store's own catalog, powered by Claude. Stack: React, Claude API, Vercel Functions, Supabase.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="652" height="424" viewBox="0 0 652 424" role="img" aria-labelledby="title desc" xml:space="preserve">
+  <title id="title">Stelio — ai shopping assistant for cosmetics stores.</title>
+  <desc id="desc">Stelio: ai shopping assistant for cosmetics stores. Built with react, claude api, vercel functions. Live at stelio.vercel.app.</desc>
   <style>
-    .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif; }
-    .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
-    .ink { fill: #f0f6fc; }
-    .muted { fill: #9198a1; }
-    .accent { fill: #4493f8; }
+  text { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; white-space: pre; }
+  .i { fill: #e6edf3; } .m { fill: #8d96a0; } .f { fill: #454c56; } .a { fill: #ff5a1f; }
+  .I { fill: #e6edf3; font-weight: 700; } .A { fill: #ff5a1f; font-weight: 700; }
+  .fr { opacity: 0; } .po { opacity: 1; }
+  .caret { animation: caret 1.1s steps(1,end) infinite; }
+  @keyframes caret { 0% { fill-opacity: 1; } 50% { fill-opacity: 0; } }
+  @media (prefers-reduced-motion: reduce) { .fr, .caret { animation: none !important; } }
+  @keyframes w0{0%{opacity:1}9.862%{opacity:0}95.233%{opacity:1}100%{opacity:1}}
+  @keyframes w1{0%{opacity:0}9.862%{opacity:1}10.651%{opacity:0}100%{opacity:0}}
+  @keyframes w2{0%{opacity:0}10.651%{opacity:1}15.187%{opacity:0}100%{opacity:0}}
+  @keyframes w3{0%{opacity:0}15.187%{opacity:1}16.174%{opacity:0}19.132%{opacity:1}20.118%{opacity:0}23.077%{opacity:1}24.063%{opacity:0}100%{opacity:0}}
+  @keyframes w4{0%{opacity:0}16.174%{opacity:1}17.16%{opacity:0}20.118%{opacity:1}21.105%{opacity:0}24.063%{opacity:1}25.049%{opacity:0}100%{opacity:0}}
+  @keyframes w5{0%{opacity:0}17.16%{opacity:1}18.146%{opacity:0}21.105%{opacity:1}22.091%{opacity:0}25.049%{opacity:1}26.036%{opacity:0}100%{opacity:0}}
+  @keyframes w6{0%{opacity:0}18.146%{opacity:1}19.132%{opacity:0}22.091%{opacity:1}23.077%{opacity:0}26.036%{opacity:1}27.022%{opacity:0}100%{opacity:0}}
+  @keyframes w7{0%{opacity:0}27.022%{opacity:1}27.811%{opacity:0}100%{opacity:0}}
+  @keyframes w8{0%{opacity:0}27.811%{opacity:1}28.6%{opacity:0}100%{opacity:0}}
+  @keyframes w9{0%{opacity:0}28.6%{opacity:1}29.389%{opacity:0}100%{opacity:0}}
+  @keyframes w10{0%{opacity:0}29.389%{opacity:1}30.178%{opacity:0}100%{opacity:0}}
+  @keyframes w11{0%{opacity:0}30.178%{opacity:1}30.966%{opacity:0}100%{opacity:0}}
+  @keyframes w12{0%{opacity:0}30.966%{opacity:1}31.755%{opacity:0}100%{opacity:0}}
+  @keyframes w13{0%{opacity:0}31.755%{opacity:1}32.544%{opacity:0}100%{opacity:0}}
+  @keyframes w14{0%{opacity:0}32.544%{opacity:1}33.333%{opacity:0}100%{opacity:0}}
+  @keyframes w15{0%{opacity:0}33.333%{opacity:1}34.122%{opacity:0}100%{opacity:0}}
+  @keyframes w16{0%{opacity:0}34.122%{opacity:1}61.538%{opacity:0}100%{opacity:0}}
+  @keyframes w17{0%{opacity:0}61.538%{opacity:1}62.327%{opacity:0}100%{opacity:0}}
+  @keyframes w18{0%{opacity:0}62.327%{opacity:1}63.116%{opacity:0}100%{opacity:0}}
+  @keyframes w19{0%{opacity:0}63.116%{opacity:1}71.4%{opacity:0}100%{opacity:0}}
+  @keyframes w20{0%{opacity:0}71.4%{opacity:1}81.262%{opacity:0}100%{opacity:0}}
+  @keyframes w21{0%{opacity:0}81.262%{opacity:1}91.124%{opacity:0}100%{opacity:0}}
+  @keyframes w22{0%{opacity:0}91.124%{opacity:1}91.946%{opacity:0}100%{opacity:0}}
+  @keyframes w23{0%{opacity:0}91.946%{opacity:1}92.768%{opacity:0}100%{opacity:0}}
+  @keyframes w24{0%{opacity:0}92.768%{opacity:1}93.59%{opacity:0}100%{opacity:0}}
+  @keyframes w25{0%{opacity:0}93.59%{opacity:1}94.412%{opacity:0}100%{opacity:0}}
+  @keyframes w26{0%{opacity:0}94.412%{opacity:1}95.233%{opacity:0}100%{opacity:0}}
   </style>
   <g transform="translate(12 0)">
-  <rect x="0.75" y="0.75" width="638.5" height="338.5" rx="19.5" fill="#151b23" stroke="#3d444d" stroke-width="1.5"/>
-  <circle cx="49" cy="50" r="5" fill="#f778ba"/>
-  <text x="62" y="55" class="mono" fill="#f778ba" font-size="14" letter-spacing="2">03 · AI KIOSK</text>
-  <text x="596" y="56" text-anchor="end" class="sans accent" font-size="17" font-weight="600">stelio.vercel.app ↗</text>
-  <text x="44" y="130" class="sans ink" font-size="44" font-weight="700" letter-spacing="-1.2">Stelio</text>
-  <text x="44" y="178" class="sans muted" font-size="21">Tablet assistant for cosmetics stores.</text>
-  <text x="44" y="208" class="sans muted" font-size="21">Three questions → three picks from the</text>
-  <text x="44" y="238" class="sans muted" font-size="21">store's own catalog, powered by Claude.</text>
-  <g>
-    <rect x="44" y="266" width="74" height="30" rx="15" fill="#0d1117" stroke="#3d444d"/>
-    <text x="81" y="286.25" text-anchor="middle" class="mono muted" font-size="15">React</text>
-    <rect x="128" y="266" width="120" height="30" rx="15" fill="#0d1117" stroke="#3d444d"/>
-    <text x="188" y="286.25" text-anchor="middle" class="mono muted" font-size="15">Claude API</text>
-    <rect x="258" y="266" width="176" height="30" rx="15" fill="#0d1117" stroke="#3d444d"/>
-    <text x="346" y="286.25" text-anchor="middle" class="mono muted" font-size="15">Vercel Functions</text>
-    <rect x="444" y="266" width="101" height="30" rx="15" fill="#0d1117" stroke="#3d444d"/>
-    <text x="494.5" y="286.25" text-anchor="middle" class="mono muted" font-size="15">Supabase</text>
+  <text class="I" x="0" y="34" font-size="32">Stelio</text>
+  <text class="a" x="640" y="34" font-size="16" text-anchor="end">stelio.vercel.app -&gt;</text>
+  <text class="m" x="0" y="66" font-size="16">ai shopping assistant for cosmetics stores.</text>
+  <text class="m" x="0" y="92" font-size="14">react · claude api · vercel functions</text>
+  <g font-size="17">
+    <text class="f" x="0" y="129" textLength="639.84">+--                ------------------------------------------+</text>
+    <text class="m" x="41.28" y="129" textLength="144.48">stelio · kiosk</text>
+    <text class="f" x="0" y="153" textLength="639.84">|                                                            |</text>
+    <text class="f" x="0" y="177" textLength="639.84">|                                                            |</text>
+    <text class="I" x="30.96" y="177" textLength="258">what does your skin need?</text>
+    <text class="f" x="0" y="201" textLength="639.84">|                                                            |</text>
+    <text class="f" x="0" y="225" textLength="639.84">|                                                            |</text>
+    <text class="m" x="30.96" y="225" textLength="361.2">( hydration )              ( glow )</text>
+    <text class="f" x="0" y="249" textLength="639.84">|                                                            |</text>
+    <text class="f" x="0" y="273" textLength="639.84">|                                                            |</text>
+    <text class="f" x="0" y="297" textLength="639.84">|                                                            |</text>
+    <text class="f" x="0" y="321" textLength="639.84">|                                                            |</text>
+    <text class="f" x="0" y="345" textLength="639.84">|                                                            |</text>
+    <text class="f" x="0" y="369" textLength="639.84">|                                                            |</text>
+    <text class="f" x="0" y="393" textLength="639.84">|                                                            |</text>
+    <text class="f" x="0" y="417" textLength="639.84">+------------------------------------------------------------+</text>
+  <g class="fr" style="animation:w0 10.14s steps(1,end) infinite">
+    <text class="m" x="196.08" y="225" textLength="82.56">( calm )</text>
+  </g>
+  <g class="fr" style="animation:w1 10.14s steps(1,end) infinite">
+    <text class="a" x="196.08" y="225" textLength="82.56">&lt;      _</text>
+    <text class="m" x="216.72" y="225" textLength="10.32">c</text>
+    <text class="A" x="227.04" y="225" textLength="30.96">alm</text>
+  </g>
+  <g class="fr" style="animation:w2 10.14s steps(1,end) infinite">
+    <text class="A" x="196.08" y="225" textLength="82.56">[ calm ]</text>
+  </g>
+  <g class="fr" style="animation:w3 10.14s steps(1,end) infinite">
+    <text class="A" x="196.08" y="225" textLength="82.56">[ calm ]</text>
+    <text class="a" x="30.96" y="273" textLength="10.32">|</text>
+    <text class="m" x="51.6" y="273" textLength="278.64">matching this store's shelf</text>
+  </g>
+  <g class="fr" style="animation:w4 10.14s steps(1,end) infinite">
+    <text class="A" x="196.08" y="225" textLength="82.56">[ calm ]</text>
+    <text class="a" x="30.96" y="273" textLength="10.32">/</text>
+    <text class="m" x="51.6" y="273" textLength="278.64">matching this store's shelf</text>
+  </g>
+  <g class="fr" style="animation:w5 10.14s steps(1,end) infinite">
+    <text class="A" x="196.08" y="225" textLength="82.56">[ calm ]</text>
+    <text class="a" x="30.96" y="273" textLength="10.32">-</text>
+    <text class="m" x="51.6" y="273" textLength="278.64">matching this store's shelf</text>
+  </g>
+  <g class="fr" style="animation:w6 10.14s steps(1,end) infinite">
+    <text class="A" x="196.08" y="225" textLength="82.56">[ calm ]</text>
+    <text class="a" x="30.96" y="273" textLength="10.32">\</text>
+    <text class="m" x="51.6" y="273" textLength="278.64">matching this store's shelf</text>
+  </g>
+  <g class="fr" style="animation:w7 10.14s steps(1,end) infinite">
+    <text class="A" x="196.08" y="225" textLength="82.56">[ calm ]</text>
+    <text class="a" x="30.96" y="273" textLength="299.28">| |= _*&gt; \+ &lt;      \ |   #++=</text>
+    <text class="m" x="72.24" y="273" textLength="216.72">t   n  t is sto e s s</text>
+    <text class="a" x="30.96" y="297" textLength="175.44">&lt;  &lt;_&gt;_|| #  **/=</text>
+  </g>
+  <g class="fr" style="animation:w8 10.14s steps(1,end) infinite">
+    <text class="A" x="196.08" y="225" textLength="82.56">[ calm ]</text>
+    <text class="a" x="30.96" y="273" textLength="299.28">/ _*#_&gt;/+#=_&lt;&lt;#\ \#&lt;_*\ &lt;#|&gt;_</text>
+    <text class="m" x="196.08" y="273" textLength="10.32">s</text>
+    <text class="a" x="30.96" y="297" textLength="185.76">&lt;  #++*&gt;&gt; &lt;&lt;=#&gt;+&lt;*</text>
+  </g>
+  <g class="fr" style="animation:w9 10.14s steps(1,end) infinite">
+    <text class="A" x="196.08" y="225" textLength="82.56">[ calm ]</text>
+    <text class="a" x="30.96" y="273" textLength="299.28">= &lt;__/|#*|__#*&gt;+ #+#*&gt;| &lt;#_&gt;/</text>
+    <text class="m" x="196.08" y="273" textLength="10.32">s</text>
+    <text class="a" x="30.96" y="297" textLength="185.76">|  =&lt;&gt;#_* +##|*#&gt;\</text>
+    <text class="a" x="30.96" y="321" textLength="165.12">*  | &lt;=_#_ _+# &gt;</text>
+  </g>
+  <g class="fr" style="animation:w10 10.14s steps(1,end) infinite">
+    <text class="A" x="196.08" y="225" textLength="82.56">[ calm ]</text>
+    <text class="a" x="30.96" y="273" textLength="299.28">* /&gt;&gt;\&lt;/\/&lt;#|#|| /=&gt;_&gt;/ \&gt;#=#</text>
+    <text class="m" x="196.08" y="273" textLength="10.32">s</text>
+    <text class="a" x="30.96" y="297" textLength="185.76">\  *&lt;\&gt;+&lt; =&lt;=+_&lt;&gt;&lt;</text>
+    <text class="a" x="30.96" y="321" textLength="165.12">\  \/*+/_\ &gt;/\/\</text>
+  </g>
+  <g class="fr" style="animation:w11 10.14s steps(1,end) infinite">
+    <text class="A" x="196.08" y="225" textLength="82.56">[ calm ]</text>
+    <text class="a" x="30.96" y="273" textLength="258">|   #   \  # =&lt;_ =&gt; + _ +</text>
+    <text class="m" x="51.6" y="273" textLength="206.4">pi ks  ro     s  t r</text>
+    <text class="f" x="30.96" y="297" textLength="10.32">1</text>
+    <text class="i" x="61.92" y="297" textLength="144.48">gentle c  anse</text>
+    <text class="a" x="144.48" y="297" textLength="72.24">=\    &gt;</text>
+    <text class="a" x="30.96" y="321" textLength="165.12">\  *_=&gt;**/ &gt;\_||</text>
+    <text class="a" x="30.96" y="345" textLength="227.04">&gt;  &lt;#=&lt;&lt;\/  =\     +\&gt;</text>
+  </g>
+  <g class="fr" style="animation:w12 10.14s steps(1,end) infinite">
+    <text class="A" x="196.08" y="225" textLength="82.56">[ calm ]</text>
+    <text class="m" x="30.96" y="273" textLength="237.36">3 picks from this store</text>
+    <text class="f" x="30.96" y="297" textLength="10.32">1</text>
+    <text class="i" x="61.92" y="297" textLength="154.8">gentle cleanser</text>
+    <text class="a" x="30.96" y="321" textLength="165.12">#  /*&lt;&gt;#+/ &lt;_&gt;#/</text>
+    <text class="a" x="30.96" y="345" textLength="227.04">+  +\&lt;\*/= &lt;*+/# _&lt;/\|</text>
+  </g>
+  <g class="fr" style="animation:w13 10.14s steps(1,end) infinite">
+    <text class="A" x="196.08" y="225" textLength="82.56">[ calm ]</text>
+    <text class="m" x="30.96" y="273" textLength="237.36">3 picks from this store</text>
+    <text class="f" x="30.96" y="297" textLength="10.32">1</text>
+    <text class="i" x="61.92" y="297" textLength="154.8">gentle cleanser</text>
+    <text class="f" x="30.96" y="321" textLength="10.32">2</text>
+    <text class="i" x="61.92" y="321" textLength="134.16">b rrier cre m</text>
+    <text class="a" x="72.24" y="321" textLength="113.52">\         |</text>
+    <text class="a" x="30.96" y="345" textLength="227.04">_  *=&lt;#\#\ =+=&gt;\ _=/&lt;&lt;</text>
+  </g>
+  <g class="fr" style="animation:w14 10.14s steps(1,end) infinite">
+    <text class="A" x="196.08" y="225" textLength="82.56">[ calm ]</text>
+    <text class="m" x="30.96" y="273" textLength="237.36">3 picks from this store</text>
+    <text class="f" x="30.96" y="297" textLength="10.32">1</text>
+    <text class="i" x="61.92" y="297" textLength="154.8">gentle cleanser</text>
+    <text class="f" x="30.96" y="321" textLength="10.32">2</text>
+    <text class="i" x="61.92" y="321" textLength="134.16">barrier cream</text>
+    <text class="a" x="30.96" y="345" textLength="227.04">&gt;  */#++&lt;| _\+&gt;/ _&lt;|/*</text>
+  </g>
+  <g class="fr" style="animation:w15 10.14s steps(1,end) infinite">
+    <text class="A" x="196.08" y="225" textLength="82.56">[ calm ]</text>
+    <text class="m" x="30.96" y="273" textLength="237.36">3 picks from this store</text>
+    <text class="f" x="30.96" y="297" textLength="10.32">1</text>
+    <text class="i" x="61.92" y="297" textLength="154.8">gentle cleanser</text>
+    <text class="f" x="30.96" y="321" textLength="10.32">2</text>
+    <text class="i" x="61.92" y="321" textLength="134.16">barrier cream</text>
+    <text class="f" x="30.96" y="345" textLength="10.32">3</text>
+    <text class="i" x="61.92" y="345" textLength="196.08">thermal  at     ray</text>
+    <text class="a" x="144.48" y="345" textLength="82.56">=  #&lt; *|</text>
+  </g>
+  <g class="fr po" style="animation:w16 10.14s steps(1,end) infinite">
+    <text class="A" x="196.08" y="225" textLength="82.56">[ calm ]</text>
+    <text class="m" x="30.96" y="273" textLength="237.36">3 picks from this store</text>
+    <text class="f" x="30.96" y="297" textLength="10.32">1</text>
+    <text class="i" x="61.92" y="297" textLength="154.8">gentle cleanser</text>
+    <text class="f" x="30.96" y="321" textLength="10.32">2</text>
+    <text class="i" x="61.92" y="321" textLength="134.16">barrier cream</text>
+    <text class="f" x="30.96" y="345" textLength="10.32">3</text>
+    <text class="i" x="61.92" y="345" textLength="196.08">thermal water spray</text>
+  </g>
+  <g class="fr" style="animation:w17 10.14s steps(1,end) infinite">
+    <text class="A" x="196.08" y="225" textLength="82.56">[ calm ]</text>
+    <text class="m" x="30.96" y="273" textLength="237.36">3 picks from this store</text>
+    <text class="f" x="30.96" y="297" textLength="10.32">1</text>
+    <text class="i" x="61.92" y="297" textLength="154.8">gentle cleanser</text>
+    <text class="f" x="30.96" y="321" textLength="10.32">2</text>
+    <text class="i" x="61.92" y="321" textLength="134.16">barrier cream</text>
+    <text class="f" x="30.96" y="345" textLength="10.32">3</text>
+    <text class="i" x="61.92" y="345" textLength="196.08">thermal water spray</text>
+    <text class="a" x="30.96" y="393" textLength="185.76">&gt;&lt; &gt;  &gt;   &gt;=     =</text>
+  </g>
+  <g class="fr" style="animation:w18 10.14s steps(1,end) infinite">
+    <text class="A" x="196.08" y="225" textLength="82.56">[ calm ]</text>
+    <text class="m" x="30.96" y="273" textLength="237.36">3 picks from this store</text>
+    <text class="f" x="30.96" y="297" textLength="10.32">1</text>
+    <text class="i" x="61.92" y="297" textLength="154.8">gentle cleanser</text>
+    <text class="f" x="30.96" y="321" textLength="10.32">2</text>
+    <text class="i" x="61.92" y="321" textLength="134.16">barrier cream</text>
+    <text class="f" x="30.96" y="345" textLength="10.32">3</text>
+    <text class="i" x="61.92" y="345" textLength="196.08">thermal water spray</text>
+    <text class="a" x="30.96" y="393" textLength="185.76">&lt; _  \ /&gt;*   _# |&lt;</text>
+    <text class="f" x="41.28" y="393" textLength="113.52">e t  h   er</text>
+  </g>
+  <g class="fr" style="animation:w19 10.14s steps(1,end) infinite">
+    <text class="A" x="196.08" y="225" textLength="82.56">[ calm ]</text>
+    <text class="m" x="30.96" y="273" textLength="237.36">3 picks from this store</text>
+    <text class="f" x="30.96" y="297" textLength="10.32">1</text>
+    <text class="i" x="61.92" y="297" textLength="154.8">gentle cleanser</text>
+    <text class="f" x="30.96" y="321" textLength="10.32">2</text>
+    <text class="i" x="61.92" y="321" textLength="134.16">barrier cream</text>
+    <text class="f" x="30.96" y="345" textLength="10.32">3</text>
+    <text class="i" x="61.92" y="345" textLength="196.08">thermal water spray</text>
+    <text class="f" x="30.96" y="393" textLength="185.76">next shopper in 3s</text>
+  </g>
+  <g class="fr" style="animation:w20 10.14s steps(1,end) infinite">
+    <text class="A" x="196.08" y="225" textLength="82.56">[ calm ]</text>
+    <text class="m" x="30.96" y="273" textLength="237.36">3 picks from this store</text>
+    <text class="f" x="30.96" y="297" textLength="10.32">1</text>
+    <text class="i" x="61.92" y="297" textLength="154.8">gentle cleanser</text>
+    <text class="f" x="30.96" y="321" textLength="10.32">2</text>
+    <text class="i" x="61.92" y="321" textLength="134.16">barrier cream</text>
+    <text class="f" x="30.96" y="345" textLength="10.32">3</text>
+    <text class="i" x="61.92" y="345" textLength="196.08">thermal water spray</text>
+    <text class="f" x="30.96" y="393" textLength="185.76">next shopper in 2s</text>
+  </g>
+  <g class="fr" style="animation:w21 10.14s steps(1,end) infinite">
+    <text class="A" x="196.08" y="225" textLength="82.56">[ calm ]</text>
+    <text class="m" x="30.96" y="273" textLength="237.36">3 picks from this store</text>
+    <text class="f" x="30.96" y="297" textLength="10.32">1</text>
+    <text class="i" x="61.92" y="297" textLength="154.8">gentle cleanser</text>
+    <text class="f" x="30.96" y="321" textLength="10.32">2</text>
+    <text class="i" x="61.92" y="321" textLength="134.16">barrier cream</text>
+    <text class="f" x="30.96" y="345" textLength="10.32">3</text>
+    <text class="i" x="61.92" y="345" textLength="196.08">thermal water spray</text>
+    <text class="f" x="30.96" y="393" textLength="185.76">next shopper in 1s</text>
+  </g>
+  <g class="fr" style="animation:w22 10.14s steps(1,end) infinite">
+    <text class="a" x="196.08" y="225" textLength="10.32">*</text>
+    <text class="A" x="216.72" y="225" textLength="61.92">calm ]</text>
+    <text class="a" x="30.96" y="273" textLength="216.72">\ *&gt;&lt; &gt;  /    +   =#+</text>
+    <text class="m" x="82.56" y="273" textLength="185.76">k  f om t is    re</text>
+    <text class="f" x="30.96" y="297" textLength="10.32">1</text>
+    <text class="i" x="61.92" y="297" textLength="154.8">gen le cleanser</text>
+    <text class="a" x="92.88" y="297" textLength="10.32">|</text>
+    <text class="a" x="30.96" y="321" textLength="165.12">&gt;      +       &lt;</text>
+    <text class="i" x="61.92" y="321" textLength="123.84">barr er crea</text>
+    <text class="a" x="30.96" y="345" textLength="216.72">*     #    /   _ &lt;+ +</text>
+    <text class="i" x="61.92" y="345" textLength="196.08">the mal  ate    r y</text>
+    <text class="f" x="30.96" y="393" textLength="175.44">next shop    i  1</text>
+    <text class="a" x="123.84" y="393" textLength="92.88">==_  *  |</text>
+  </g>
+  <g class="fr" style="animation:w23 10.14s steps(1,end) infinite">
+    <text class="a" x="196.08" y="225" textLength="82.56">\      =</text>
+    <text class="A" x="216.72" y="225" textLength="41.28">c lm</text>
+    <text class="m" x="227.04" y="225" textLength="10.32">a</text>
+    <text class="a" x="30.96" y="273" textLength="227.04">\ #*+ #  //   * &lt; &gt;&lt;&gt;_</text>
+    <text class="m" x="82.56" y="273" textLength="185.76">k  f  m t i      e</text>
+    <text class="f" x="30.96" y="297" textLength="10.32">1</text>
+    <text class="a" x="61.92" y="297" textLength="154.8">&gt; &lt;+    =&lt;+\ &lt;+</text>
+    <text class="i" x="72.24" y="297" textLength="123.84">e  le c    s</text>
+    <text class="a" x="30.96" y="321" textLength="165.12">/  | &lt;#=      /&gt;</text>
+    <text class="i" x="72.24" y="321" textLength="103.2">a   er cre</text>
+    <text class="a" x="30.96" y="345" textLength="227.04">#  __|_\/  =\/ / /= &lt;&lt;</text>
+    <text class="i" x="123.84" y="345" textLength="113.52">l    e    r</text>
+    <text class="a" x="30.96" y="393" textLength="185.76">\ \&gt; &gt;|/ /_#  \  _</text>
+    <text class="f" x="41.28" y="393" textLength="165.12">e      p    i  1</text>
+  </g>
+  <g class="fr" style="animation:w24 10.14s steps(1,end) infinite">
+    <text class="a" x="196.08" y="225" textLength="82.56">_      =</text>
+    <text class="m" x="216.72" y="225" textLength="41.28">calm</text>
+    <text class="a" x="30.96" y="273" textLength="237.36">= #&gt;/   &gt; &gt;+ \ &gt;+   &lt;##</text>
+    <text class="m" x="82.56" y="273" textLength="10.32">k</text>
+    <text class="a" x="30.96" y="297" textLength="185.76">_  | _  = #|=\&lt;=|/</text>
+    <text class="i" x="72.24" y="297" textLength="41.28">e  l</text>
+    <text class="a" x="61.92" y="321" textLength="134.16">=#|/ \&lt;  ++&lt;*</text>
+    <text class="i" x="144.48" y="321" textLength="10.32">c</text>
+    <text class="a" x="61.92" y="345" textLength="196.08">/*_ _/#  &gt;*    *\ #</text>
+    <text class="i" x="175.44" y="345" textLength="10.32">e</text>
+    <text class="a" x="30.96" y="393" textLength="185.76">+/|= _\&gt;_    #  \&lt;</text>
+  </g>
+  <g class="fr" style="animation:w25 10.14s steps(1,end) infinite">
+    <text class="m" x="196.08" y="225" textLength="82.56">( calm )</text>
+    <text class="a" x="82.56" y="273" textLength="185.76">=  /  * # +      \</text>
+    <text class="a" x="30.96" y="297" textLength="175.44">|   _  /+ *    *\</text>
+    <text class="a" x="61.92" y="321" textLength="113.52">&lt;*   *= &gt;#/</text>
+    <text class="a" x="61.92" y="345" textLength="175.44">\&lt;    \  + =    /</text>
+    <text class="a" x="30.96" y="393" textLength="175.44">//   |= =    /  +</text>
+  </g>
+  <g class="fr" style="animation:w26 10.14s steps(1,end) infinite">
+    <text class="m" x="196.08" y="225" textLength="82.56">( calm )</text>
+    <text class="a" x="82.56" y="273" textLength="185.76">&lt;  +             \</text>
+    <text class="a" x="72.24" y="297" textLength="123.84">#  +       &lt;</text>
+    <text class="a" x="72.24" y="321" textLength="82.56">#    _ +</text>
+    <text class="a" x="175.44" y="345" textLength="10.32">+</text>
+  </g>
   </g>
   </g>
 </svg>
