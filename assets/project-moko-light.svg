@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="652" height="340" viewBox="0 0 652 340" role="img" aria-labelledby="title desc">
+  <title id="title">MOKO — 02 · BOOKING + CRM BOT</title>
+  <desc id="desc">MOKO: Mobile upholstery cleaning in Wrocław. Online booking, price offers by email, client accounts and a Telegram admin bot. Stack: React, Supabase, Tailwind, Telegram Bot.</desc>
+  <style>
+    .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .ink { fill: #1f2328; }
+    .muted { fill: #59636e; }
+    .accent { fill: #0969da; }
+  </style>
+  <g transform="translate(0 0)">
+  <rect x="0.75" y="0.75" width="638.5" height="338.5" rx="19.5" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.5"/>
+  <circle cx="49" cy="50" r="5" fill="#0b7a8f"/>
+  <text x="62" y="55" class="mono" fill="#0b7a8f" font-size="14" letter-spacing="2">02 · BOOKING + CRM BOT</text>
+  <text x="596" y="56" text-anchor="end" class="sans accent" font-size="17" font-weight="600">mokowash.pl ↗</text>
+  <text x="44" y="130" class="sans ink" font-size="44" font-weight="700" letter-spacing="-1.2">MOKO</text>
+  <text x="44" y="178" class="sans muted" font-size="21">Mobile upholstery cleaning in Wrocław.</text>
+  <text x="44" y="208" class="sans muted" font-size="21">Online booking, price offers by email,</text>
+  <text x="44" y="238" class="sans muted" font-size="21">client accounts and a Telegram admin bot.</text>
+  <g>
+    <rect x="44" y="266" width="74" height="30" rx="15" fill="#ffffff" stroke="#d0d7de"/>
+    <text x="81" y="286.25" text-anchor="middle" class="mono muted" font-size="15">React</text>
+    <rect x="128" y="266" width="101" height="30" rx="15" fill="#ffffff" stroke="#d0d7de"/>
+    <text x="178.5" y="286.25" text-anchor="middle" class="mono muted" font-size="15">Supabase</text>
+    <rect x="239" y="266" width="101" height="30" rx="15" fill="#ffffff" stroke="#d0d7de"/>
+    <text x="289.5" y="286.25" text-anchor="middle" class="mono muted" font-size="15">Tailwind</text>
+    <rect x="350" y="266" width="139" height="30" rx="15" fill="#ffffff" stroke="#d0d7de"/>
+    <text x="419.5" y="286.25" text-anchor="middle" class="mono muted" font-size="15">Telegram Bot</text>
+  </g>
+  </g>
+</svg>

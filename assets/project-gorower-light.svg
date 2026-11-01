@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-labelledby="title desc">
+  <title id="title">GoRower — 01 · WEB PLATFORM + CRM</title>
+  <desc id="desc">GoRower: E-bike rental and bike service in Wrocław. A public site that turns visitors into leads, plus a touch-first CRM for the owner: rentals, repairs, SMS reminders. Stack: React, TypeScript, Supabase, Edge Functions, Vercel.</desc>
+  <style>
+    .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .ink { fill: #1f2328; }
+    .muted { fill: #59636e; }
+    .accent { fill: #0969da; }
+  </style>
+  <g transform="translate(0 0)">
+  <rect x="0.75" y="0.75" width="1278.5" height="338.5" rx="19.5" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.5"/>
+  <circle cx="61" cy="62" r="5" fill="#1a7f37"/>
+  <text x="74" y="67" class="mono" fill="#1a7f37" font-size="14" letter-spacing="2">01 · WEB PLATFORM + CRM</text>
+  <text x="1224" y="68" text-anchor="end" class="sans accent" font-size="17" font-weight="600">gorower.pl ↗</text>
+  <text x="56" y="128" class="sans ink" font-size="50" font-weight="700" letter-spacing="-1.2">GoRower</text>
+  <text x="56" y="170" class="sans muted" font-size="22">E-bike rental and bike service in Wrocław. A public</text>
+  <text x="56" y="201" class="sans muted" font-size="22">site that turns visitors into leads, plus a touch-first</text>
+  <text x="56" y="232" class="sans muted" font-size="22">CRM for the owner: rentals, repairs, SMS reminders.</text>
+  <g>
+    <rect x="56" y="254" width="74" height="30" rx="15" fill="#ffffff" stroke="#d0d7de"/>
+    <text x="93" y="274.25" text-anchor="middle" class="mono muted" font-size="15">React</text>
+    <rect x="140" y="254" width="120" height="30" rx="15" fill="#ffffff" stroke="#d0d7de"/>
+    <text x="200" y="274.25" text-anchor="middle" class="mono muted" font-size="15">TypeScript</text>
+    <rect x="270" y="254" width="101" height="30" rx="15" fill="#ffffff" stroke="#d0d7de"/>
+    <text x="320.5" y="274.25" text-anchor="middle" class="mono muted" font-size="15">Supabase</text>
+    <rect x="381" y="254" width="157" height="30" rx="15" fill="#ffffff" stroke="#d0d7de"/>
+    <text x="459.5" y="274.25" text-anchor="middle" class="mono muted" font-size="15">Edge Functions</text>
+    <rect x="548" y="254" width="83" height="30" rx="15" fill="#ffffff" stroke="#d0d7de"/>
+    <text x="589.5" y="274.25" text-anchor="middle" class="mono muted" font-size="15">Vercel</text>
+  </g>
+  <g>
+    <rect x="780" y="100" width="444" height="172" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+    <path d="M876 100v172" stroke="#d0d7de" stroke-width="1.5"/>
+    <rect x="796" y="118" width="58" height="10" rx="5" fill="#1f2328" opacity="0.8"/>
+    <rect x="792" y="144" width="72" height="20" rx="6" fill="#ddeeff"/>
+    <rect x="800" y="150" width="44" height="8" rx="4" fill="#0969da"/>
+    <rect x="800" y="180" width="50" height="8" rx="4" fill="#dfe4ea"/>
+    <rect x="800" y="204" width="40" height="8" rx="4" fill="#dfe4ea"/>
+    <rect x="800" y="228" width="54" height="8" rx="4" fill="#dfe4ea"/>
+    <rect x="892" y="118" width="98" height="56" rx="8" fill="#f6f8fa" stroke="#dfe4ea"/>
+    <rect x="904" y="130" width="40" height="7" rx="3.5" fill="#dfe4ea"/>
+    <rect x="904" y="146" width="52" height="16" rx="4" fill="#1f2328" opacity="0.75"/>
+    <rect x="1000" y="118" width="98" height="56" rx="8" fill="#f6f8fa" stroke="#dfe4ea"/>
+    <rect x="1012" y="130" width="40" height="7" rx="3.5" fill="#dfe4ea"/>
+    <rect x="1012" y="146" width="34" height="16" rx="4" fill="#1f2328" opacity="0.75"/>
+    <rect x="1108" y="118" width="98" height="56" rx="8" fill="#f6f8fa" stroke="#dfe4ea"/>
+    <rect x="1120" y="130" width="40" height="7" rx="3.5" fill="#dfe4ea"/>
+    <rect x="1120" y="146" width="44" height="16" rx="4" fill="#1f2328" opacity="0.75"/>
+    <circle cx="900" cy="200" r="7" fill="#dfe4ea"/>
+    <rect x="914" y="195" width="104" height="10" rx="5" fill="#dfe4ea"/>
+    <rect x="1132" y="192" width="74" height="17" rx="8.5" fill="#dafbe1" stroke="#1a7f37"/>
+    <text x="1169" y="204.5" text-anchor="middle" class="mono" fill="#1a7f37" font-size="10.5" letter-spacing="0.5">rental</text>
+    <circle cx="900" cy="226" r="7" fill="#dfe4ea"/>
+    <rect x="914" y="221" width="84" height="10" rx="5" fill="#dfe4ea"/>
+    <rect x="1132" y="218" width="74" height="17" rx="8.5" fill="#fff1c5" stroke="#9a6700"/>
+    <text x="1169" y="230.5" text-anchor="middle" class="mono" fill="#9a6700" font-size="10.5" letter-spacing="0.5">service</text>
+    <circle cx="900" cy="252" r="7" fill="#dfe4ea"/>
+    <rect x="914" y="247" width="120" height="10" rx="5" fill="#dfe4ea"/>
+    <rect x="1132" y="244" width="74" height="17" rx="8.5" fill="#ddeeff" stroke="#0969da"/>
+    <text x="1169" y="256.5" text-anchor="middle" class="mono" fill="#0969da" font-size="10.5" letter-spacing="0.5">lead</text>
+  </g>
+  </g>
+</svg>

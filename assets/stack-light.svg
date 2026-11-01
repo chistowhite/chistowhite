@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="280" viewBox="0 0 1280 280" role="img" aria-labelledby="title desc">
+  <title id="title">Tech stack</title>
+  <desc id="desc">FRONTEND: TypeScript, React, Vite, Tailwind CSS. BACKEND: Supabase, PostgreSQL, Edge Functions, Python. DELIVERY: Vercel, Cloudflare Workers, Docker · Fly.io, Sentry. AI · QUALITY: Claude API, Telegram Bots, Vitest, Playwright.</desc>
+  <style>
+    .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .ink { fill: #1f2328; }
+    .muted { fill: #59636e; }
+    .accent { fill: #0969da; }
+  </style>
+  <rect x="0.75" y="0.75" width="1278.5" height="278.5" rx="19.5" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.5"/>
+  <text x="56" y="72" class="mono accent" font-size="14" letter-spacing="2.5">FRONTEND</text>
+  <rect x="56" y="109" width="8" height="8" rx="2" fill="#d0d7de"/>
+  <text x="76" y="120" class="sans ink" font-size="21">TypeScript</text>
+  <rect x="56" y="149" width="8" height="8" rx="2" fill="#d0d7de"/>
+  <text x="76" y="160" class="sans ink" font-size="21">React</text>
+  <rect x="56" y="189" width="8" height="8" rx="2" fill="#d0d7de"/>
+  <text x="76" y="200" class="sans ink" font-size="21">Vite</text>
+  <rect x="56" y="229" width="8" height="8" rx="2" fill="#d0d7de"/>
+  <text x="76" y="240" class="sans ink" font-size="21">Tailwind CSS</text>
+  <path d="M324 52v176" stroke="#d0d7de" stroke-width="1.5"/>
+  <text x="348" y="72" class="mono accent" font-size="14" letter-spacing="2.5">BACKEND</text>
+  <rect x="348" y="109" width="8" height="8" rx="2" fill="#d0d7de"/>
+  <text x="368" y="120" class="sans ink" font-size="21">Supabase</text>
+  <rect x="348" y="149" width="8" height="8" rx="2" fill="#d0d7de"/>
+  <text x="368" y="160" class="sans ink" font-size="21">PostgreSQL</text>
+  <rect x="348" y="189" width="8" height="8" rx="2" fill="#d0d7de"/>
+  <text x="368" y="200" class="sans ink" font-size="21">Edge Functions</text>
+  <rect x="348" y="229" width="8" height="8" rx="2" fill="#d0d7de"/>
+  <text x="368" y="240" class="sans ink" font-size="21">Python</text>
+  <path d="M616 52v176" stroke="#d0d7de" stroke-width="1.5"/>
+  <text x="640" y="72" class="mono accent" font-size="14" letter-spacing="2.5">DELIVERY</text>
+  <rect x="640" y="109" width="8" height="8" rx="2" fill="#d0d7de"/>
+  <text x="660" y="120" class="sans ink" font-size="21">Vercel</text>
+  <rect x="640" y="149" width="8" height="8" rx="2" fill="#d0d7de"/>
+  <text x="660" y="160" class="sans ink" font-size="21">Cloudflare Workers</text>
+  <rect x="640" y="189" width="8" height="8" rx="2" fill="#d0d7de"/>
+  <text x="660" y="200" class="sans ink" font-size="21">Docker · Fly.io</text>
+  <rect x="640" y="229" width="8" height="8" rx="2" fill="#d0d7de"/>
+  <text x="660" y="240" class="sans ink" font-size="21">Sentry</text>
+  <path d="M908 52v176" stroke="#d0d7de" stroke-width="1.5"/>
+  <text x="932" y="72" class="mono accent" font-size="14" letter-spacing="2.5">AI · QUALITY</text>
+  <rect x="932" y="109" width="8" height="8" rx="2" fill="#d0d7de"/>
+  <text x="952" y="120" class="sans ink" font-size="21">Claude API</text>
+  <rect x="932" y="149" width="8" height="8" rx="2" fill="#d0d7de"/>
+  <text x="952" y="160" class="sans ink" font-size="21">Telegram Bots</text>
+  <rect x="932" y="189" width="8" height="8" rx="2" fill="#d0d7de"/>
+  <text x="952" y="200" class="sans ink" font-size="21">Vitest</text>
+  <rect x="932" y="229" width="8" height="8" rx="2" fill="#d0d7de"/>
+  <text x="952" y="240" class="sans ink" font-size="21">Playwright</text>
+</svg>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="652" height="340" viewBox="0 0 652 340" role="img" aria-labelledby="title desc">
+  <title id="title">Stelio — 03 · AI KIOSK</title>
+  <desc id="desc">Stelio: Tablet assistant for cosmetics stores. Three questions → three picks from the store's own catalog, powered by Claude. Stack: React, Claude API, Vercel Functions, Supabase.</desc>
+  <style>
+    .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .ink { fill: #1f2328; }
+    .muted { fill: #59636e; }
+    .accent { fill: #0969da; }
+  </style>
+  <g transform="translate(12 0)">
+  <rect x="0.75" y="0.75" width="638.5" height="338.5" rx="19.5" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.5"/>
+  <circle cx="49" cy="50" r="5" fill="#bf3989"/>
+  <text x="62" y="55" class="mono" fill="#bf3989" font-size="14" letter-spacing="2">03 · AI KIOSK</text>
+  <text x="596" y="56" text-anchor="end" class="sans accent" font-size="17" font-weight="600">stelio.vercel.app ↗</text>
+  <text x="44" y="130" class="sans ink" font-size="44" font-weight="700" letter-spacing="-1.2">Stelio</text>
+  <text x="44" y="178" class="sans muted" font-size="21">Tablet assistant for cosmetics stores.</text>
+  <text x="44" y="208" class="sans muted" font-size="21">Three questions → three picks from the</text>
+  <text x="44" y="238" class="sans muted" font-size="21">store's own catalog, powered by Claude.</text>
+  <g>
+    <rect x="44" y="266" width="74" height="30" rx="15" fill="#ffffff" stroke="#d0d7de"/>
+    <text x="81" y="286.25" text-anchor="middle" class="mono muted" font-size="15">React</text>
+    <rect x="128" y="266" width="120" height="30" rx="15" fill="#ffffff" stroke="#d0d7de"/>
+    <text x="188" y="286.25" text-anchor="middle" class="mono muted" font-size="15">Claude API</text>
+    <rect x="258" y="266" width="176" height="30" rx="15" fill="#ffffff" stroke="#d0d7de"/>
+    <text x="346" y="286.25" text-anchor="middle" class="mono muted" font-size="15">Vercel Functions</text>
+    <rect x="444" y="266" width="101" height="30" rx="15" fill="#ffffff" stroke="#d0d7de"/>
+    <text x="494.5" y="286.25" text-anchor="middle" class="mono muted" font-size="15">Supabase</text>
+  </g>
+  </g>
+</svg>
